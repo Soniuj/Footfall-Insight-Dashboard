@@ -15,11 +15,22 @@ Monthly Trends by Location: A dual bar chart compares Total Footfall vs. Sum of 
 
 Interactive Filtering: Includes a weekday slicer, allowing users to filter and interact with visuals dynamically for more granular analysis. 
 
-#🌟 Why This Project Stands Out – 
+# Why This Project Stands Out – 
 
-🚶‍♀️ Real-World Retail Scenario: Real-world retail footfall analysis with actionable insights. 
- 📊 Visually Insightful: Clean, color-coded dashboard using an Ocean Tale theme for professional appeal. 
- 🧩 Dynamic Analysis: Interactive filters and slicers allow users to drill down into specific sites or timeframes. 
- 💡 Built  Using DAX : Built using best practices in Power BI and DAX. 
+🚶‍♀️ Real-World Retail Scenario: Real-world retail footfall analysis with actionable insights. \n
+ 📊 Visually Insightful: Clean, color-coded dashboard using an Ocean Tale theme for professional appeal. \n
+ 🧩 Dynamic Analysis: Interactive filters and slicers allow users to drill down into specific sites or timeframes. \n
+ 💡 Built  Using DAX : Built using best practices in Power BI and DAX. \n
+
+# Project Highlights
+Total footfall 2M
+Average of Total footfall 1.92k
+On Weekends, The average of footfall is 3.0k (saturday) and 1.9k (sunday) 
+Highhest Hourly Average footfall 2.4k by Davgate(Location)
+
+ # Repositary structure 
+ Dashboard Contains the power BI report file(.pbix) showcasing the complete Footfall-Insights dashboard." 
+ Image Contains screenshot of the dashboard for quick preview and visual reference (ideal for README and portfolio highlights).
+ 
 
  
