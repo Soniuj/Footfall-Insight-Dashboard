@@ -17,10 +17,10 @@ Interactive Filtering: Includes a weekday slicer, allowing users to filter and i
 
 # Why This Project Stands Out – 
 
-🚶‍♀️ Real-World Retail Scenario: Real-world retail footfall analysis with actionable insights. \n
- 📊 Visually Insightful: Clean, color-coded dashboard using an Ocean Tale theme for professional appeal. \n
- 🧩 Dynamic Analysis: Interactive filters and slicers allow users to drill down into specific sites or timeframes. \n
- 💡 Built  Using DAX : Built using best practices in Power BI and DAX. \n
+🚶‍♀️ Real-World Retail Scenario: Real-world retail footfall analysis with actionable insights. 
+ 📊 Visually Insightful: Clean, color-coded dashboard using an Ocean Tale theme for professional appeal. 
+ 🧩 Dynamic Analysis: Interactive filters and slicers allow users to drill down into specific sites or timeframes. 
+ 💡 Built  Using DAX : Built using best practices in Power BI and DAX. 
 
 # Project Highlights
 Total footfall 2M
