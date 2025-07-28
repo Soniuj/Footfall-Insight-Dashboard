@@ -35,7 +35,8 @@ Highhest Hourly Average footfall 2.4k by Davgate(Location)
 
  # Repositary structure 
  Dashboard Contains the power BI report file(.pbix) showcasing the complete Footfall-Insights dashboard."  "https://github.com/Soniuj/Footfall-Insight-Dashboard/blob/main/Footfall%20data.pbix "<br>
- Image Contains screenshot of the dashboard for quick preview and visual reference (ideal for README and portfolio highlights).
+ Image: <img width="1456" height="821" alt="footfall" src="https://github.com/user-attachments/assets/877cc293-7340-4bcf-b8a5-4f22ee254ea2" />
+
  
 
  
