@@ -4,7 +4,8 @@ Power BI dashboard analyzing retail footfall trends. The dashboard presents acti
 #### Total footfall Metrics:  
 Overview of key KPIs including Total Count, Average Footfall, and Location-wise performance. 
 
-Custom DAX Measures:  Built with DAX formulas to calculate dynamic totals, averages, and min, max Hourly footfall and weekday footfall. 
+#### Custom DAX Measures:  
+Built with DAX formulas to calculate dynamic totals, averages, and min, max Hourly footfall and weekday footfall. 
 
 Comprehensive Footfall Overview: Displays over 2 million total footfalls, with clear segmentation of Northbound (892K) and Southbound (970K) traffic. These metrics provide a baseline for understanding overall site engagement. 
 
