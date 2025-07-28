@@ -1,7 +1,8 @@
 # Footfall-Insight-Dashboard
 Power BI dashboard analyzing retail footfall trends. The dashboard presents actionable insights on visitor trends by hour, day, month and site name to support data-driven decision-making. 
 # Key Insights and Features:-
-##Total footfall Metrics:  Overview of key KPIs including Total Count, Average Footfall, and Location-wise performance. 
+## Total footfall Metrics:  
+Overview of key KPIs including Total Count, Average Footfall, and Location-wise performance. 
 
 Custom DAX Measures:  Built with DAX formulas to calculate dynamic totals, averages, and min, max Hourly footfall and weekday footfall. 
 
