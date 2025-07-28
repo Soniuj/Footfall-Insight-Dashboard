@@ -11,11 +11,14 @@ Comprehensive Footfall Overview: Displays over 2 million total footfalls, with c
 
 Hourly Average Footfall by Location: Shows Davygate as the most active location with a 2.4K average hourly footfall, followed by Blake Street and Goodramgate. This supports location-specific strategy planning. 
 
-Weekdays Footfall: A pie chart reveals that Saturday and Sunday are the busiest days, each contributing 18.52% of total footfall. This insight helps businesses plan for increased staffing or promotional activities during weekends. 
+#### Weekdays Footfall:
+A pie chart reveals that Saturday and Sunday are the busiest days, each contributing 18.52% of total footfall. This insight helps businesses plan for increased staffing or promotional activities during weekends. 
 
-Monthly Trends by Location: A dual bar chart compares Total Footfall vs. Sum of Year across months and locations, with November at Davygate (0.45M) emerging as a high-performance time/location combo. 
+#### Monthly Trends by Location: 
+A dual bar chart compares Total Footfall vs. Sum of Year across months and locations, with November at Davygate (0.45M) emerging as a high-performance time/location combo. 
 
-Interactive Filtering: Includes a weekday slicer, allowing users to filter and interact with visuals dynamically for more granular analysis. 
+#### Interactive Filtering: 
+Includes a weekday slicer, allowing users to filter and interact with visuals dynamically for more granular analysis. 
 
 # Why This Project Stands Out – 
 
