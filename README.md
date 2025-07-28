@@ -28,10 +28,10 @@ Includes a weekday slicer, allowing users to filter and interact with visuals dy
 - 💡 **Built Using DAX**: Built using best practices in Power BI and DAX.
 
 # Project Highlights
-Total footfall 2M
-Average of Total footfall 1.92k
-On Weekends, The average of footfall is 3.0k (saturday) and 1.9k (sunday) 
-Highhest Hourly Average footfall 2.4k by Davgate(Location)
+Total footfall 2M </br>
+Average of Total footfall 1.92k </br>
+On Weekends, The average of footfall is 3.0k (saturday) and 1.9k (sunday) </br>
+Highhest Hourly Average footfall 2.4k by Davgate(Location) </br>
 
  # Repositary structure 
  Dashboard Contains the power BI report file(.pbix) showcasing the complete Footfall-Insights dashboard."  "https://github.com/Soniuj/Footfall-Insight-Dashboard/blob/main/Footfall%20data.pbix "<br>
